@@ -1,2 +1,2 @@
-# AI_For_Business
-AI Solutions for Business Real World Cases
+# AI and Machine Learning Projects
+Real World Cases / Business Solutions
